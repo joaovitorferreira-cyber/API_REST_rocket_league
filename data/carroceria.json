@@ -1,0 +1,1297 @@
+[
+  {
+    "id": 1,
+    "nombre": "Octane",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 2,
+    "nombre": "Dominus",
+    "calidad": "Premium",
+    "hitbox": "Dominus",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 3,
+    "nombre": "Fennec",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 4,
+    "nombre": "Tesla Cybertruck",
+    "calidad": "Exótico",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 5,
+    "nombre": "Lightning McQueen",
+    "calidad": "Black Market",
+    "hitbox": "Dominus",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 6,
+    "nombre": "Beskar",
+    "calidad": "Exótico",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 7,
+    "nombre": "Porsche 911 Turbo",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 8,
+    "nombre": "Admiral",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 9,
+    "nombre": "Mako",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 10,
+    "nombre": "Nissan Fairlady Z",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 11,
+    "nombre": "BMW 1 Series",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 12,
+    "nombre": "Azura",
+    "calidad": "Común",
+    "hitbox": "Breakout",
+    "lanzamiento": 2025
+  },
+  {
+    "id": 13,
+    "nombre": "Dodge Charger Daytona",
+    "calidad": "Común",
+    "hitbox": "Dominus",
+    "lanzamiento": 2025
+  },
+  {
+    "id": 14,
+    "nombre": "Breakout X",
+    "calidad": "Común",
+    "hitbox": "Breakout",
+    "lanzamiento": 2025
+  },
+  {
+    "id": 15,
+    "nombre": "Xentari",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2025
+  },
+  {
+    "id": 16,
+    "nombre": "Shokunin",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 17,
+    "nombre": "Ace",
+    "calidad": "Importado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 18,
+    "nombre": "Primo",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 19,
+    "nombre": "Fuse",
+    "calidad": "Importado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 20,
+    "nombre": "Lockjaw",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 21,
+    "nombre": "Bumblebee",
+    "calidad": "Black Market",
+    "hitbox": "Merc",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 22,
+    "nombre": "Ferrari 296 GTB",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 23,
+    "nombre": "Lamborghini Countach LPI 800-4",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 24,
+    "nombre": "Bugatti Centodieci",
+    "calidad": "Exótico",
+    "hitbox": "Plank",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 25,
+    "nombre": "Ford Bronco Raptor",
+    "calidad": "Exótico",
+    "hitbox": "Merc",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 26,
+    "nombre": "Honda Civic Type R",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 27,
+    "nombre": "Volkswagen Golf GTI",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 28,
+    "nombre": "Nissan Silvia (S13)",
+    "calidad": "Limitado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 29,
+    "nombre": "Dingo",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 30,
+    "nombre": "Jackal",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 31,
+    "nombre": "Mamba",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 32,
+    "nombre": "Tygris",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 33,
+    "nombre": "Insidio",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 34,
+    "nombre": "Peregrine TT",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 35,
+    "nombre": "Batmobile (2016)",
+    "calidad": "Exótico",
+    "hitbox": "Plank",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 36,
+    "nombre": "Batmobile (1989)",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 37,
+    "nombre": "Batmobile (2022)",
+    "calidad": "Exótico",
+    "hitbox": "Merc",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 38,
+    "nombre": "Skyline GT-R (R34)",
+    "calidad": "Exótico",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 39,
+    "nombre": "DeLorean Time Machine",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 40,
+    "nombre": "Ecto-1",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 41,
+    "nombre": "Jurassic Jeep Wrangler",
+    "calidad": "Exótico",
+    "hitbox": "Octane",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 42,
+    "nombre": "K.I.T.T.",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 43,
+    "nombre": "Maverick GXT",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 44,
+    "nombre": "Artemis GXT",
+    "calidad": "Limitado",
+    "hitbox": "Plank",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 45,
+    "nombre": "Guardian GXT",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 46,
+    "nombre": "Mudcat GXT",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 47,
+    "nombre": "Ronin GXT",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 48,
+    "nombre": "Chikara GXT",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 49,
+    "nombre": "Harbinger GXT",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 50,
+    "nombre": "R3MX GXT",
+    "calidad": "Limitado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 51,
+    "nombre": "Tyranno GXT",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 52,
+    "nombre": "Nexus SC",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 53,
+    "nombre": "Outlaw GXT",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 54,
+    "nombre": "Nomad GXT",
+    "calidad": "Limitado",
+    "hitbox": "Merc",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 55,
+    "nombre": "Maestro",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 56,
+    "nombre": "Emperor",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 57,
+    "nombre": "Endo",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 58,
+    "nombre": "Mantis",
+    "calidad": "Importado",
+    "hitbox": "Plank",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 59,
+    "nombre": "Jäger 619",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 60,
+    "nombre": "Centio",
+    "calidad": "Importado",
+    "hitbox": "Plank",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 61,
+    "nombre": "Animus GP",
+    "calidad": "Importado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 62,
+    "nombre": "Imperator DT5",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 63,
+    "nombre": "Werewolf",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 64,
+    "nombre": "Samurai",
+    "calidad": "Importado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 65,
+    "nombre": "Twinzer",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 66,
+    "nombre": "Cyclone",
+    "calidad": "Importado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 67,
+    "nombre": "Nimbus",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 68,
+    "nombre": "Diestro",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 69,
+    "nombre": "Sentinel",
+    "calidad": "Importado",
+    "hitbox": "Plank",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 70,
+    "nombre": "Komodo",
+    "calidad": "Exótico",
+    "hitbox": "Breakout",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 71,
+    "nombre": "Merc",
+    "calidad": "Común",
+    "hitbox": "Merc",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 72,
+    "nombre": "Breakout",
+    "calidad": "Común",
+    "hitbox": "Breakout",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 73,
+    "nombre": "Hotshot",
+    "calidad": "Común",
+    "hitbox": "Dominus",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 74,
+    "nombre": "Gizmo",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 75,
+    "nombre": "Paladin",
+    "calidad": "Común",
+    "hitbox": "Plank",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 76,
+    "nombre": "Road Hog",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 77,
+    "nombre": "Venom",
+    "calidad": "Común",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 78,
+    "nombre": "X-Devil",
+    "calidad": "Común",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 79,
+    "nombre": "Takumi",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 80,
+    "nombre": "Masamune",
+    "calidad": "Premium",
+    "hitbox": "Dominus",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 81,
+    "nombre": "Marauder",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 82,
+    "nombre": "Esper",
+    "calidad": "Premium",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 83,
+    "nombre": "Aftershock",
+    "calidad": "Premium",
+    "hitbox": "Dominus",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 84,
+    "nombre": "Proteus",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 85,
+    "nombre": "Triton",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 86,
+    "nombre": "Vulcan",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 87,
+    "nombre": "Zippy",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 88,
+    "nombre": "Scarab",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 89,
+    "nombre": "Grog",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 90,
+    "nombre": "Ripper",
+    "calidad": "Premium",
+    "hitbox": "Dominus",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 91,
+    "nombre": "Formula 1 2021",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 92,
+    "nombre": "Formula 1 2022",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 93,
+    "nombre": "NASCAR Chevrolet Camaro",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 94,
+    "nombre": "NASCAR Ford Mustang",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 95,
+    "nombre": "NASCAR Toyota Camry",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 96,
+    "nombre": "Aston Martin DB5",
+    "calidad": "Exótico",
+    "hitbox": "Octane",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 97,
+    "nombre": "Aston Martin Valhalla",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 98,
+    "nombre": "McLaren 570S",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 99,
+    "nombre": "McLaren 765LT",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 100,
+    "nombre": "Ford Mustang Mach-E",
+    "calidad": "Exótico",
+    "hitbox": "Octane",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 101,
+    "nombre": "Octane ZSR",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 102,
+    "nombre": "Dominus GT",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 103,
+    "nombre": "Breakout Type-S",
+    "calidad": "Importado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 104,
+    "nombre": "Takumi RX-T",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 105,
+    "nombre": "Road Hog XL",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 106,
+    "nombre": "X-Devil Mk2",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2016
+  },
+  {
+    "id": 107,
+    "nombre": "Backfire",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 108,
+    "nombre": "Battle Bus",
+    "calidad": "Limitado",
+    "hitbox": "Merc",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 109,
+    "nombre": "Nemesis",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 110,
+    "nombre": "Whiplash",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 111,
+    "nombre": "Bone Shaker",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 112,
+    "nombre": "Twin Mill III",
+    "calidad": "Premium",
+    "hitbox": "Plank",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 113,
+    "nombre": "Fast 4WD",
+    "calidad": "Premium",
+    "hitbox": "Octane",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 114,
+    "nombre": "Gazella GT",
+    "calidad": "Premium",
+    "hitbox": "Dominus",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 115,
+    "nombre": "MR11",
+    "calidad": "Premium",
+    "hitbox": "Dominus",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 116,
+    "nombre": "Sweet Tooth",
+    "calidad": "Común",
+    "hitbox": "Merc",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 117,
+    "nombre": "Hogsticker",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 118,
+    "nombre": "Armadillo",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2015
+  },
+  {
+    "id": 119,
+    "nombre": "Mario NSR",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 120,
+    "nombre": "Luigi NSR",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 121,
+    "nombre": "Samus' Gunship",
+    "calidad": "Común",
+    "hitbox": "Octane",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 122,
+    "nombre": "Artemis",
+    "calidad": "Limitado",
+    "hitbox": "Plank",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 123,
+    "nombre": "Maverick",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 124,
+    "nombre": "Mudcat",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 125,
+    "nombre": "Ronin",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 126,
+    "nombre": "Chikara",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 127,
+    "nombre": "Guardian",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 128,
+    "nombre": "Harbinger",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 129,
+    "nombre": "R3MX",
+    "calidad": "Limitado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 130,
+    "nombre": "Tyranno",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 131,
+    "nombre": "Nexus",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 132,
+    "nombre": "Outlaw",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 133,
+    "nombre": "Nomad",
+    "calidad": "Limitado",
+    "hitbox": "Merc",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 134,
+    "nombre": "Ford Mustang Shelby GT350R",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 135,
+    "nombre": "Ford F-150 RLE",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 136,
+    "nombre": "NASCAR Next Gen Chevrolet Camaro",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 137,
+    "nombre": "NASCAR Next Gen Ford Mustang",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 138,
+    "nombre": "NASCAR Next Gen Toyota Camry",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 139,
+    "nombre": "BMW 1 Series RLE",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 140,
+    "nombre": "Nissan Fairlady Z RLE",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 141,
+    "nombre": "Nissan Silvia RLE",
+    "calidad": "Limitado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 142,
+    "nombre": "Porsche 911 Turbo RLE",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 143,
+    "nombre": "Volkswagen Golf GTI RLE",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 144,
+    "nombre": "Honda Civic Type R-LE",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 145,
+    "nombre": "007's Aston Martin DBS",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 146,
+    "nombre": "1966 Cadillac DeVille",
+    "calidad": "Exótico",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 147,
+    "nombre": "BMW M240i",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 148,
+    "nombre": "Lamborghini Huracán STO",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 149,
+    "nombre": "Lamborghini Urus SE",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 150,
+    "nombre": "McLaren Senna",
+    "calidad": "Exótico",
+    "hitbox": "Breakout",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 151,
+    "nombre": "Nissan Z Performance",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 152,
+    "nombre": "Porsche 911 GT3 RS",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 153,
+    "nombre": "Ram 1500 RHO",
+    "calidad": "Exótico",
+    "hitbox": "Merc",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 154,
+    "nombre": "The Dark Knight's Tumbler",
+    "calidad": "Exótico",
+    "hitbox": "Octane",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 155,
+    "nombre": "The Incredibile",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 156,
+    "nombre": "Nissan Skyline GT-R (R32)",
+    "calidad": "Exótico",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 157,
+    "nombre": "Behemoth",
+    "calidad": "Importado",
+    "hitbox": "Merc",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 158,
+    "nombre": "Diesel",
+    "calidad": "Importado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 159,
+    "nombre": "Megastar",
+    "calidad": "Importado",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 160,
+    "nombre": "Redline",
+    "calidad": "Luxury",
+    "hitbox": "Breakout",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 161,
+    "nombre": "Scorpion",
+    "calidad": "Luxury",
+    "hitbox": "Dominus",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 162,
+    "nombre": "Stampede",
+    "calidad": "Importado",
+    "hitbox": "Merc",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 163,
+    "nombre": "Void Burn",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 164,
+    "nombre": "Octane Gold",
+    "calidad": "Black Market",
+    "hitbox": "Octane",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 165,
+    "nombre": "Dominus: Neon",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 166,
+    "nombre": "Fennec ZR-F",
+    "calidad": "Importado",
+    "hitbox": "Octane",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 167,
+    "nombre": "Artemis G1",
+    "calidad": "Limitado",
+    "hitbox": "Plank",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 168,
+    "nombre": "Chikara G1",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 169,
+    "nombre": "Guardian G1",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 170,
+    "nombre": "Maverick G1",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2018
+  },
+  {
+    "id": 171,
+    "nombre": "Mudcat G1",
+    "calidad": "Limitado",
+    "hitbox": "Octane",
+    "lanzamiento": 2019
+  },
+  {
+    "id": 172,
+    "nombre": "Ronin G1",
+    "calidad": "Limitado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 173,
+    "nombre": "Emperor II",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 174,
+    "nombre": "Emperor II: Frozen",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 175,
+    "nombre": "Emperor II: Scorched",
+    "calidad": "Limitado",
+    "hitbox": "Breakout",
+    "lanzamiento": 2023
+  },
+  {
+    "id": 176,
+    "nombre": "Psyclops",
+    "calidad": "Sport",
+    "hitbox": "Dominus",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 177,
+    "nombre": "Revolver",
+    "calidad": "Importado",
+    "hitbox": "Merc",
+    "lanzamiento": 2024
+  },
+  {
+    "id": 178,
+    "nombre": "Quadra Turbo-R",
+    "calidad": "Exótico",
+    "hitbox": "Breakout",
+    "lanzamiento": 2020
+  },
+  {
+    "id": 179,
+    "nombre": "Ice Charger",
+    "calidad": "Importado",
+    "hitbox": "Dominus",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 180,
+    "nombre": "Fast & Furious Pontiac Fiero",
+    "calidad": "Exótico",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2021
+  },
+  {
+    "id": 181,
+    "nombre": "Fast & Furious Dodge Charger",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 182,
+    "nombre": "Fast & Furious Mazda RX-7",
+    "calidad": "Exótico",
+    "hitbox": "Breakout",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 183,
+    "nombre": "Fast & Furious Nissan Skyline",
+    "calidad": "Exótico",
+    "hitbox": "Hybrid",
+    "lanzamiento": 2017
+  },
+  {
+    "id": 184,
+    "nombre": "Ford Mustang Shelby GT500",
+    "calidad": "Exótico",
+    "hitbox": "Dominus",
+    "lanzamiento": 2022
+  },
+  {
+    "id": 185,
+    "nombre": "Jeep Wrangler Rubicon",
+    "calidad": "Exótico",
+    "hitbox": "Octane",
+    "lanzamiento": 2024
+  }
+]

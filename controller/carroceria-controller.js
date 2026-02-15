@@ -5,11 +5,11 @@ exports.getAll = async (req, res) => {
     let response = [];
         for (let i = 0; i < CarroceriaJson.length; i++) {
             let carroceria = new Carroceria(
-                carroceriaJson[i].id,
-                carroceriaJson[i].nombre,
-                carroceriaJson[i].calidad,
-                carroceriaJson[i].hitbox,
-                carroceriaJson[i].lanzamiento
+                CarroceriaJson[i].id,
+                CarroceriaJson[i].nombre,
+                CarroceriaJson[i].calidad,
+                CarroceriaJson[i].hitbox,
+                CarroceriaJson[i].lanzamiento
             );
             response.push(carroceria);
         }
@@ -21,11 +21,11 @@ exports.getById = async (req, res) => {
 
         for (let i = 0; i < CarroceriaJson.length; i++) {
             let carroceria = new Carroceria(
-                carroceriaJson[i].id,
-                carroceriaJson[i].nombre,
-                carroceriaJson[i].calidad,
-                carroceriaJson[i].hitbox,
-                carroceriaJson[i].lanzamiento
+                CarroceriaJson[i].id,
+                CarroceriaJson[i].nombre,
+                CarroceriaJson[i].calidad,
+                CarroceriaJson[i].hitbox,
+                CarroceriaJson[i].lanzamiento
             );
             if (carroceria.id == buscaporid) {
                 return res.json(carroceria);
@@ -40,11 +40,11 @@ exports.getByHitbox = async (req, res) => {
     for (let i = 0; i < CarroceriaJson.length; i++) {
 
         let carroceria = new Carroceria(
-            carroceriaJson[i].id,
-            carroceriaJson[i].nombre,
-            carroceriaJson[i].calidad,
-            carroceriaJson[i].hitbox,
-            carroceriaJson[i].lanzamiento
+            CarroceriaJson[i].id,
+            CarroceriaJson[i].nombre,
+            CarroceriaJson[i].calidad,
+            CarroceriaJson[i].hitbox,
+            CarroceriaJson[i].lanzamiento
         );
         if (vienePorQuery && carroceria.hitbox.toLowerCase() == vienePorQuery.toLowerCase()) {
             resultados.push(carroceria);

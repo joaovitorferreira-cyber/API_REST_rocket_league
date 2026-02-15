@@ -1,4 +1,9 @@
 {
+  "name": "mi-api-rocket-league",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
   }

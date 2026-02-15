@@ -1,0 +1,24 @@
+services:
+  app:
+    image: joaovitorpaucasesnoves/ifc31c-iaw-ferreira-joao:v1.0.1
+    container_name: rocket_api
+    restart: always
+    expose:
+      - "3000"
+  caddy:
+    image: caddy:2.7-alpine
+    container_name: rocket_caddy
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - app
+
+volumes:
+  caddy_data:
+  caddy_config:
